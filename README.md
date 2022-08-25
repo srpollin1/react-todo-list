@@ -8,5 +8,4 @@
 
 4. iniciar proyecto con `npm start`
 
-![Imagen de muestra del proyecto]
-(https://github.com/srpollin1/react-todo-list/blob/main/todo-list-react-img.png)
+![Imagen de muestra del proyecto](https://github.com/srpollin1/react-todo-list/blob/main/todo-list-react-img.png)
