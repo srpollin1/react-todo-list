@@ -7,5 +7,3 @@
 3. instalar npm dentro de react-todo-list con `npm install`
 
 4. iniciar proyecto con `npm start`
-
-
